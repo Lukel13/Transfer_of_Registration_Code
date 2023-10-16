@@ -1,6 +1,6 @@
 # Transfer_of_Registration_Code
 
-**Reference List**
+**Reference list transfer of registration report** 
 
 Ammann, N., Liao, J., Gerya, T., & Ball, P. (2018). Oblique continental rifting and long transform fault formation based on 3D thermomechanical numerical modeling. Tectonophysics, 746, 106-120. https://doi.org/10.1016/j.tecto.2017.08.015
 
@@ -78,3 +78,70 @@ Watson, S. J., Whittaker, J. M., Halpin, J. A., Williams, S. E., Milan, L. A., D
 Whittaker, J. M., Williams, S. E., Halpin, J. A., Wild, T. J., Stilwell, J. D., Jourdan, F., & Daczko, N. R. (2016). Eastern Indian Ocean microcontinent formation driven by plate motion changes. Earth and Planetary Science Letters, 454, 203–212. doi: 10.1016/j.epsl.2016.09.019.
 
 Williams, S. E., Whittaker, J. M., Granot, R., and Müller, R. D. (2013). Early India-Australia spreading history revealed by newly detected Mesozoic magnetic anoma lies in the Perth Abyssal Plain. J. Geophys. Res.: Solid Earth 118, 3275–3284.
+
+**Reference list literature review**
+Allken, V., Huismans, R. S., & Thieulot, C. (2012). Factors controlling the mode of rift interaction in brittle-ductile coupled systems: A 3D numerical study. Geochemistry, Geophysics, Geosystems, 13(5), 1–18. https://doi.org/10.1029/2012GC004077.
+
+Ammann, N., Liao, J., Gerya, T., & Ball, P. (2018). Oblique continental rifting and long transform fault formation based on 3D thermomechanical numerical modeling. Tectonophysics, 746, 106-120. https://doi.org/10.1016/j.tecto.2017.08.015
+
+Basile, Christophe. (2015) Transform continental margins – Part 1: Concepts and models. Tectonophysics, Elsevier, 2015, 661, pp.1-10. http://dx.doi.org/10.1016/j.tecto.2015.08.034.
+
+Boettcher, M. S., & Jordan, T. H. (2004). Earthquake scaling relations for mid-ocean ridge transform faults. Journal of Geophysical Research, 109(2), 1–21.
+
+Bosworth, William. (2005) Comment and Reply on “Detachment faulting and the evolution of passive continental margins”: COMMENT. Geology 1986;; 14 (10): 890–891. doi: https://doi.org/10.1130/0091-7613(1986)14<890:CARODF>2.0.CO;2
+
+Farangitakis, G.P.; McCaffrey, K.J.W.; Willingshofer, E.; Allen, M.B.; Kalnins, L.M.; van Hunen, J.; Persaud, P.; Sokoutis, D. (2020). The structural evolution of pullapart basins in response to changes in plate motion. Basin Research, (), bre.12528–. doi:10.1111/bre.12528.
+
+Foulger, GR., Doré, T-, Emeleus, C.H-, Franke, D., Geoffoy, L, Gernigon, L, Hey, R-, Holdsworth, RE, Hole, M., Höskuldsson, A., Julian, B., Kusznir, N-, Martirz, E, McCaffrey, KJ.W., Natland, J.H., Peace, AL, Petersen, K, Schiffer, C, R, and Stoker, M. (2020). The Iceland microcontinent and a continental Greenland-Iceland-Faroe Ridge: 
+Reviews, v. 206, 102926, https://doi.org/10.1016 /j.earscirev.2019.102926.
+
+Foulger, GR., Gernigon, L, and Geoffroy, L. (2022). Icelandia, in Foulger, GR., Hamilton, L.C., Jurdy, D.M., Stein, C.A.. Howard, K.A., and Stein, S., eds., In the Footsteps of Wanen B, Hamilton: New Ideas in Earth Science: Geological Society of America Special Paper 553, p. 29—40, https://doi.org/10.1130/2021.2553(04).
+
+Gaina, C., Müller, R.D., Brown, B.J. & Ishihara, T. (2003). Microcontinent formation around Australia. In: HILLIS, R.R. & MÜLLER, R.D. (eds) Evolution and Dynamics of the Australian Plate. Geological Society of America, Special Papers, 372, 405–416. https://doi.org/10. 1130/0-8137-2372-8.405.
+
+Gaina, Carmen, and Whittaker, Joanne. (2019). Microcontinents. Encyclopedia of Solid Earth Geophysics. 2nd Edition: 1120-1124.
+
+Gerya, T. (2010). Dynamical instability produces transform faults at mid-ocean ridges. Science329,1047–1050.
+
+Gerya, T. V. (2012). "Origin and models of oceanic transform faults." Tectonophysics 522: 34-54.
+
+Illsley-Kemp, F., Bull, J. M., Keir, D., Gerya, T., Pagli, C., Gernon, T., et al. (2018). Initiation of a proto-transform fault prior to seafloor spreading. Geochemistry, Geophysics, Geosystems, 19(12), 4744–4756. https://doi.org/10.1029/2018GC007947
+
+Le Pourhiet, L., May, D. A., Huille, L., Watremez, L., & Leroy, S. (2017). A genetic link between transform and hyper-extended margins. Earth and Planetary Science Letters, 465, 184–192. https://doi.org/10.1016/j.epsl.2017.02.043
+
+Liao, J., Gerya, T., 2015. From continental rifting to seafloor spreading: insight from 3d thermo-mechanical modeling. Gondwana Res 28, 1329–1343.
+
+Longley, L., Martin, L., Satchwell, B., Tomlinson, L., and Phethean, J. (2021). Microcontinent cleaving and enigmatic proto subduction events (?): The role of transpressional transforms in plate tectonics of the Indian and North Atlantic Oceans, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21- 5049, 
+https://doi.org/10.5194/egusphere-egu21-5049.
+
+Matthews, K. J., R. D. Müller, P. Wessel, and J. M. Whittaker (2011), The tectonic fabric of the ocean basins, J. Geophys. Res., 116, B12109, doi:10.1029/2011JB008413.
+
+Mercier De Lépinay, M., et al. (2016). "Transform continental margins – Part 2: A worldwide review." Tectonophysics 693: 96-115.
+
+Müller, R.D., Gaina, C., Roest, W.R., and Hansen, D.L. (2001), A recipe for microcontinent formation: Geology, v. 29, no. 3, p. 203–206, doi: 10.1130/0091- 7613(2001)0292.0.CO;2.
+
+Nemcok M, Sinha ST, Dore AG, Lundin ER, Mascle JM, Ryba S (2016) Mechanisms of microcontinent release associated with wrenching-involved continental break-up; a review. In: Transform margins: development, controls and petroleum systems, London, pp 323–359. https://doi.org/10.1144/SP431.14
+
+Peace, A. L., Foulger, G. R., Schiffer, C., & McCaffrey, K. J. W. (2017). Evolution of Labrador Sea–Baffin Bay: Plate or plume processes? Geoscience Canada, 44(3), 91–102. https://doi.org/10.12789/geocanj.2017.44.120
+
+Peron-Pinvidic, G., Manatschal, G. (2010). From microcontinents to extensional allochthons: witnesses of how continents rift and break apart? Pet. Geosci. 16, 1–10.
+
+Petersen, K. D., & Schiffer, C. (2016). Wilson cycle passive margins: Control of orogenic inheritance on continental breakup. Gondwana Research, 39, 131–144. https://doi.org/10.1016/j.gr.2016.06.012
+
+Pushcharovsky, Y.M. Microcontinents in the Atlantic ocean. Geotecton. 47, 241–250 (2013). https://doi.org/10.1134/S0016852113040067.
+
+Pushcharovsky, Y.M. Fragments of continental structures in the Indian Ocean. Geotecton. 48, 1–4 (2014). https://doi.org/10.1134/S0016852114010063.
+
+Schiffer, C., Peace, A., Phethean, J., Gernigon, L., McCaffrey, K., Petersen, K. D., & Foulger, G. (2018). The Jan Mayen microplate complex and the Wilson cycle. Geological Society, London, Special Publications, SP470.2. doi:10.1144/sp470.2.
+
+Scrutton, R.A. (1976). Microcontinents and their Significance. In:LAKE, C. (ed.) Geodynamics: Progress and Prospects. American Geophysical Union, Washington, DC, 177–189.
+
+van Wijk, J. W., & Blackman, D. K. (2005). Dynamics of continental rift propagation: The end‐member modes. Earth and Planetary Science Letters, 229(3–4), 247–258. https://doi.org/10.1016/j.epsl.2004.10.039.
+
+Whittaker, J. M., Williams, S. E., Halpin, J. A., Wild, T. J., Stilwell, J. D., Jourdan, F., & Daczko, N. R. (2016). Eastern Indian Ocean microcontinent formation driven by plate motion changes. Earth and Planetary Science Letters, 454, 203–212. doi: 10.1016/j.epsl.2016.09.019.
+
+Wijk, J. W. v., et al. (2008). "Formation of the Transantarctic Mountains related to extension of the West Antarctic Rift system." Tectonophysics 458(1-4): 117-126.
+
+Wilson, J.T. (1965) A New Class of Faults and Their Bearing on Continental Drift. Nature, 207, 343-347. https://doi.org/10.1038/207343a0.
+
+Yamasaki, Tadashi. Gernigon, Laurent. (2010). Redistribution of the lithosphere deformation by the emplacement of underplated mafic bodies: implications for microcontinent formation. Journal of the Geological Society; 167 (5): 961–971. doi: https://doi.org/10.1144/0016-76492010-027
