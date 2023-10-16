@@ -79,7 +79,11 @@ Whittaker, J. M., Williams, S. E., Halpin, J. A., Wild, T. J., Stilwell, J. D., 
 
 Williams, S. E., Whittaker, J. M., Granot, R., and Müller, R. D. (2013). Early India-Australia spreading history revealed by newly detected Mesozoic magnetic anoma lies in the Perth Abyssal Plain. J. Geophys. Res.: Solid Earth 118, 3275–3284.
 
+
+
+
 **Reference list literature review**
+
 Allken, V., Huismans, R. S., & Thieulot, C. (2012). Factors controlling the mode of rift interaction in brittle-ductile coupled systems: A 3D numerical study. Geochemistry, Geophysics, Geosystems, 13(5), 1–18. https://doi.org/10.1029/2012GC004077.
 
 Ammann, N., Liao, J., Gerya, T., & Ball, P. (2018). Oblique continental rifting and long transform fault formation based on 3D thermomechanical numerical modeling. Tectonophysics, 746, 106-120. https://doi.org/10.1016/j.tecto.2017.08.015
